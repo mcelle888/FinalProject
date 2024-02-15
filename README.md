@@ -1,4 +1,26 @@
-# Term 3 Assignment 2
+# Term 3 Assignment 2 <!-- omit from toc -->
+By Michelle Liang and Timothy Lin
+
+## Links
+[Github Repo](https://github.com/mcelle888/FinalProject)
+
+[Trello Board](https://trello.com/b/PjIrUOOm/wedding-invite-web-application)
+
+## Table of Contents <!-- omit from toc -->
+- [Links](#links) <!-- omit from toc -->
+- [R1.](#r1)
+- [R2. Dataflow Diagram](#r2-dataflow-diagram)
+- [R3. Application Architecture Diagram](#r3-application-architecture-diagram)
+- [R4. User Stories](#r4-user-stories)
+- [R5. Wireframes](#r5-wireframes)
+  - [Welcome Page Wireframes](#welcome-page-wireframes)
+  - [Home Page Wireframes](#home-page-wireframes)
+  - [Details Page Wireframes](#details-page-wireframes)
+  - [About Page Wireframes](#about-page-wireframes)
+  - [Menu Page Wireframes](#menu-page-wireframes)
+  - [RSVP Page Wireframes](#rsvp-page-wireframes)
+  - [Admin Page Wireframes](#admin-page-wireframes)
+- [R6. Trello Board](#r6-trello-board)
 
 ## R1.
 
