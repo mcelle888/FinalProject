@@ -45,6 +45,27 @@ As a guest I would like to be able to communicate dietary requirements or any qu
 
 ## R5. Wireframes
 
+### Welcome Page Wireframes
+![WelcomePage](docs/welcome.png)
+
+### Home Page Wireframes
+![HomePage](docs/home.png)
+
+### Details Page Wireframes
+![DetailsPage Wireframes](docs/details.png)
+
+### About Page Wireframes
+![AboutPage Wireframes](docs/about.png)
+
+### Menu Page Wireframes
+![MenuPage Wireframes](docs/menu.png)
+
+### RSVP Page Wireframes
+![RSVPPage Wireframes](docs/rsvp.png)
+
+### Admin Page Wireframes
+![AdminPage Wireframes](docs/admin.png)
+
 ## R6. Trello Board
 
 
