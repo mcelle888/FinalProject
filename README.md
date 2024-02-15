@@ -111,4 +111,12 @@ The admin page is only accessible by the admins (couple). This page is accessibl
 
 ## R6. Trello Board
 
+Trello was the chosen development tool for this project. It provides a visual collaborative platform to organise and manage tasks to ensure timely progress. For our project, cards were moved across three primary sections: 'To do, 'Doing' and 'Done' which helped track progression. Team members are allocated cards to organise and direct workflow and cards all have checklists and due dates to ensure deadlines are met. This also provides real time updates on tasks as well as facilating transparency and accountablity for all team members. 
 
+### Day 1 Screenshot <!-- omit from toc -->
+![day1](docs/day1.png)
+
+### Day 2 Screenshot <!-- omit from toc -->
+![day2](docs/day2.png)
+
+### Day 3 Screenshot <!-- omit from toc -->
