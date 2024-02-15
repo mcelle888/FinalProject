@@ -32,6 +32,7 @@ By Michelle Liang and Timothy Lin
 
 ## R3. Application Architecture Diagram 
 
+![Application Architecture diagram](docs/application.png)
 
 ## R4. User Stories
 
