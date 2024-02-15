@@ -48,23 +48,44 @@ As a guest I would like to be able to communicate dietary requirements or any qu
 ### Welcome Page Wireframes
 ![WelcomePage](docs/welcome.png)
 
+The welcome page uses two pictures to create the background. Guests are welcomed with a 'We're getting married' text to keep the message clear and simple. Users are then asked to login with a 4-digit pin provided by the couple. The design across all three viewports are relatively the same however due to the narrow width of a mobile device, the two background images are positioned above each other rather than beside to ensure the whole images are seen. 
+
 ### Home Page Wireframes
 ![HomePage](docs/home.png)
+
+The home page is the first page the user is redirected to after logging in with their pin. It is the simplest page of the site, featuring a navigation bar on the top right which is centered in the mobile view due to limited width space. This is featured on all the pages except the welcome page. The couples name is centered in all viewports with the most important details (time, date and location) displayed below. Finally, an RSVP button is displayed under in a gold box to highlight the main feature of this application. The button will enlarge when hovered to engage and again highlight the importance of the button. Clicking will redirect the user to the RSVP page. All viewports an identical setup due to the simplicity of the page. 
 
 ### Details Page Wireframes
 ![DetailsPage Wireframes](docs/details.png)
 
+The details page is divided into two large sections: the 'when & where' section (featuring a map feature of the location) and the 'itinerary' section. The wider screen in PC view allows for these sections to be placed side by side. In the tablet view the sections are still side by side but rearranged and finally the mobile view has the sections flowing downwards. 
+
 ### About Page Wireframes
-![AboutPage Wireframes](docs/about.png)
+![AboutPage Wireframes](docs/aboutus.png)
+
+The about us page features the history of the couple in the form of a timeline. The timeline runs horizontally across the PC and tablet vies whilst changing to a vertical format in the mobile view. The page will feature short descriptions at each timestamp/milestone aswell as corresponding photos to visually enhance the page. 
+
 
 ### Menu Page Wireframes
 ![MenuPage Wireframes](docs/menu.png)
 
+The menu page features three sections for each meal (entree, main, dessert). There are two options for each of these three meals for guests to vote on and they can do so by clicking onto the corresponding image of the dish they prefer. Once a selection has been made, guests can hit the golden 'submit' button. In the PC viewport, each section is displayed horizontally whilst in the tablet view, each section is laid out vertically and minimised slightly. Finally the mobile view is again postioned the sections vertically down the page due to limited space. 
+
+
+
 ### RSVP Page Wireframes
 ![RSVPPage Wireframes](docs/rsvp.png)
 
+
+The RSVP page features a form for users to fill. Users will be required to present their Full name, email, phone, attendance and can additionally provide extra guest names, dietary requirements and questions/messages. These will be saved and sent to the database once the user hits the golden submit button at the end of the form. 
+
+
+
 ### Admin Page Wireframes
 ![AdminPage Wireframes](docs/admin.png)
+
+
+The admin page is only accessible by the admins (couple). This page is accessible via an 8-digit pin when entered in the welcome page. The page features all the data saved from the RSVP form and is displayed in a neat table for the couple to manage. The data from the menu voting is collected and used to make pie charts for each respective meal (one for entree, one for main, etc) which gives the couple an quick and simple overview of the menu voting. 
 
 ## R6. Trello Board
 
