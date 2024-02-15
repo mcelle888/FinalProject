@@ -1,4 +1,3 @@
 # FinalProject
 
-This is a test
-Edit
+Hello my name is Tim
