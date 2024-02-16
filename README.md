@@ -1,4 +1,4 @@
-# Term 3 Assignment 2 <!-- omit from toc -->
+# T3A2 Full Stack Web Application: Wedding Invitation <!-- omit from toc -->
 By Michelle Liang and Timothy Lin
 
 ## Links <!-- omit from toc -->
@@ -8,6 +8,11 @@ By Michelle Liang and Timothy Lin
 
 ## Table of Contents <!-- omit from toc -->
 - [R1. Webapp Overview](#r1-webapp-overview)
+  - [Description](#description)
+  - [Purpose](#purpose)
+  - [Functionality / features](#functionality--features)
+  - [Target audience](#target-audience)
+  - [Tech stack](#tech-stack)
 - [R2. Dataflow Diagram](#r2-dataflow-diagram)
 - [R3. Application Architecture Diagram](#r3-application-architecture-diagram)
 - [R4. User Stories](#r4-user-stories)
@@ -45,21 +50,23 @@ Our website caters to couples planning weddings to seek an efficient way to mana
 
 ### Tech stack
 
-**Frontend:** 
-React.js: User interface development library 
+### Frontend <!-- omit from toc -->
+**React**.js: User interface development library 
 
-HTML/CSS: Standard web markup and styling
+**HTML**/CSS: Standard web markup and styling
 
-**Backend:**
-Node.js: Server-side JavaScript runtime
 
-Express.js: Web application framework for Node.js
+### Backend: <!-- omit from toc -->
+**Node.js**: Server-side JavaScript runtime
 
-MongoDB: NoSQL database for storing user and event data
+**Express.js**: Web application framework for Node.js
 
-Mongoose: MongoDB object modelling tool
+**MongoDB**: NoSQL database for storing user and event data
 
-**Deployment:**
+**Mongoose**: MongoDB object modelling tool
+
+
+### Deployment <!-- omit from toc -->
 
 MongoDB
 
@@ -67,8 +74,9 @@ Netlify
 
 Render
 
-**Others:**
-Git: Version control system for collaboration
+**Other:**
+
+**Git**: Version control system for collaboration
 
 
 
