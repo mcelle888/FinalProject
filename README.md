@@ -21,7 +21,57 @@ By Michelle Liang and Timothy Lin
   - [Admin Page Wireframes](#admin-page-wireframes)
 - [R6. Trello Board](#r6-trello-board)
 
+
 ## R1. Webapp Overview
+### Description
+Our website is crafted to simplify the process of inviting friends and family to weddings. It provides a smooth platform for hosts to manage their guest list and send out invitations digitally, offering guests a hassle-free RSVP option. 
+
+### Purpose
+The aim of the website is to modernise wedding invitations and provide a cost-effective alternative to traditional methods through digital invites. This eliminates the use of paper invitations and RSVP cards, making the process more efficient and environmentally friendly. The app enhances communication between hosts and guests, ensuring important event details are easily accessible and readily available. Interactions are instant and users have the endless personalisation options. 
+
+### Functionality / features
+
+1. User Authentication: Users and admins log in via a simple pin code.
+2. RSVP System: Simple RSVP process for guests, allowing guests to provide some basic information (name, email, phone), indicate their attendance status and provides an additional section for information such as dietary requirements, extra guests and questions.
+3. Guest List Management: Admins can view, filter and sort through the guest list responses.
+4. Dedicated section for event specifics, such as venue, date, and time for all the essential details.
+5. ‘About Us’ page to introduce and showcase the couple’s history and background.
+6. Menu voting feature to let the guests vote on their food for the night
+ 7. Responsive Design: Ensures accessibility and usability across various devices.
+
+
+### Target audience
+Our website caters to couples planning weddings to seek an efficient way to manage their guest list and send digital invitations. It also serves guests who receive these invitations and require a convenient platform for RSVPs and accessing event details.
+
+### Tech stack
+
+**Frontend:** 
+React.js: User interface development library 
+
+HTML/CSS: Standard web markup and styling
+
+**Backend:**
+Node.js: Server-side JavaScript runtime
+
+Express.js: Web application framework for Node.js
+
+MongoDB: NoSQL database for storing user and event data
+
+Mongoose: MongoDB object modelling tool
+
+**Deployment:**
+
+MongoDB
+
+Netlify
+
+Render
+
+**Others:**
+Git: Version control system for collaboration
+
+
+
 
 
 ## R2. Dataflow Diagram
