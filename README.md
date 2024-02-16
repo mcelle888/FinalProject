@@ -1,14 +1,13 @@
 # Term 3 Assignment 2 <!-- omit from toc -->
 By Michelle Liang and Timothy Lin
 
-## Links
+## Links <!-- omit from toc -->
 [Github Repo](https://github.com/mcelle888/FinalProject)
 
 [Trello Board](https://trello.com/b/PjIrUOOm/wedding-invite-web-application)
 
 ## Table of Contents <!-- omit from toc -->
-- [Links](#links) <!-- omit from toc -->
-- [R1.](#r1)
+- [R1. Webapp Overview](#r1-webapp-overview)
 - [R2. Dataflow Diagram](#r2-dataflow-diagram)
 - [R3. Application Architecture Diagram](#r3-application-architecture-diagram)
 - [R4. User Stories](#r4-user-stories)
@@ -22,7 +21,8 @@ By Michelle Liang and Timothy Lin
   - [Admin Page Wireframes](#admin-page-wireframes)
 - [R6. Trello Board](#r6-trello-board)
 
-## R1.
+
+## R1. Webapp Overview
 ### Description
 Our website is crafted to simplify the process of inviting friends and family to weddings. It provides a smooth platform for hosts to manage their guest list and send out invitations digitally, offering guests a hassle-free RSVP option. 
 
@@ -69,6 +69,9 @@ Render
 
 **Others:**
 Git: Version control system for collaboration
+
+
+
 
 
 ## R2. Dataflow Diagram
@@ -158,7 +161,7 @@ The admin page is only accessible by the admins (couple). This page is accessibl
 
 ## R6. Trello Board
 
-Trello was the chosen development tool for this project. It provides a visual collaborative platform to organise and manage tasks to ensure timely progress. For our project, cards were moved across three primary sections: 'To do, 'Doing' and 'Done' which helped track progression. Team members are allocated cards to organise and direct workflow and cards all have checklists and due dates to ensure deadlines are met. This also provides real time updates on tasks as well as facilating transparency and accountablity for all team members. 
+Trello was the chosen development tool for this project. It provides a visual collaborative platform to organise and manage tasks to ensure timely progress. For our project, cards were moved across three primary sections: 'To do, 'Doing' and 'Done' which helped track progression. Team members are allocated cards to organise and direct workflow and cards all have checklists and due dates to ensure deadlines are met. This also provides real time updates on tasks as well as facilating transparency and accountablity for all team members. Priority labels are also used to further assist in time management which ensures that the most important features and tasks are completed. 
 
 ### Day 1 Screenshot <!-- omit from toc -->
 ![day1](docs/day1.png)
@@ -167,3 +170,7 @@ Trello was the chosen development tool for this project. It provides a visual co
 ![day2](docs/day2.png)
 
 ### Day 3 Screenshot <!-- omit from toc -->
+![day3](docs/day3.png)
+
+### Day 4 Screenshot <!-- omit from toc -->
+![day4](docs/day4.png)
