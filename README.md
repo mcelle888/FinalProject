@@ -2,7 +2,12 @@
 By Michelle Liang and Timothy Lin
 
 ## Links <!-- omit from toc -->
-[Github Repo](https://github.com/mcelle888/FinalProject)
+
+[Deployed Site](https://wedding-invite-murex.vercel.app/)
+
+[Backend Repo](https://github.com/mcelle888/T3A2-B-Backend) 
+
+[Frontend Repo](https://github.com/mcelle888/T3A2-B-Frontend)
 
 [Trello Board](https://trello.com/b/PjIrUOOm/wedding-invite-web-application)
 
@@ -182,3 +187,20 @@ Trello was the chosen development tool for this project. It provides a visual co
 
 ### Day 4 Screenshot <!-- omit from toc -->
 ![day4](docs/day4.png)
+
+### Day 5 Screenshot <!-- omit from toc -->
+![day5](docs/day5.png)
+
+### Day 6 Screenshot <!-- omit from toc -->
+![day6](docs/day6.png)
+
+### Day 7 Screenshot <!-- omit from toc -->
+![day7](docs/day7.png)
+
+### Day 8 Screenshot <!-- omit from toc -->
+![day8](docs/day8.png)
+
+### Day 9 Screenshot <!-- omit from toc -->
+![day9](docs/day9.png)
+
+ 
