@@ -3,7 +3,7 @@ By Michelle Liang and Timothy Lin
 
 ## Links <!-- omit from toc -->
 
-[Deployed Site](https://wedding-invite-murex.vercel.app/)
+[Deployed Site](https://tm-wedding-invites.vercel.app/)
 
 [Backend Repo](https://github.com/mcelle888/T3A2-B-Backend) 
 
